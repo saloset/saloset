@@ -11,4 +11,4 @@
 * In the future, I plan to continue adding notes to this profile, but furthermore, I plan on adding projects, web pages, and my own documentation to this as I continue to learn.
 * I will also be contributing to open source documentation as soon as I'm a bit more comfortable with the process so if you're here because I'm wanting to collaborate on a project of yours - **Hi!**
 ---
-Again, please feel free to reach out at [my website](https://samtrujillo.info) or through GitHub and I'll be more than happy to touch base! Thank you for reading!
+**Again, please feel free to reach out at [my website](https://samtrujillo.info) or through GitHub and I'll be more than happy to touch base! Thank you for reading!**
