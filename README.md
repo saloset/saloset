@@ -1,7 +1,7 @@
 ## Who am I?
 - 👋 **Hi, I’m Sam!**
 - I have a degree in **Technical Communication** (technical writing), and am interested in documentation, software, and weirdly enough; weather.
-- I’m currently learning how to leverge my knowldge in technical communication to become a well-rounded and effective technical writer. I'm also learning the basics of coding and web development on the side and hope to be at a proficient level in the next couple years.
+- I’m currently learning how to leverge my knowledge in technical communication to become a well-rounded and effective technical writer. I'm also learning the basics of coding and web development on the side and hope to be at a proficient level in the next couple years.
 - On the personal side - My hobbies include skiing, storm chasing, photography, travel, and playing guitar. I'm a die hard Texas Tech sports fan (my alma mater), I play videogames from time to time whenever I get a chance, and am rehabbing my knee to hopefully get back into mountaineering training in the near future. 
 - 📫 **Find me at [samtrujillo.info](https://samtrujillo.info) to reach out! I'm always open to getting to know new faces!**
 
